@@ -1,11 +1,10 @@
+<img width="1411" alt="Screen Shot 2022-05-06 at 5 41 14 PM" src="https://user-images.githubusercontent.com/92279620/167220172-5077bba1-ad10-4c48-8d88-95e560d114e3.png">
 
-
-
-# React Portfolio
+# Southern Spun Place Holder
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
 
 ## Description
-A simple app used to organize an employee database using mysql
+Placeholder webpage for business 
 
 ## Table of Contents
 * [Installation](#Installation)
